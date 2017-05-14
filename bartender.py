@@ -69,7 +69,8 @@ def main():
         if round2==False:
             round1=False
             print("that'll be... ")
-            print("tip please? ")
+            print("no tip required ")
+            exit()
             
 if __name__== "__main__":
     main()
